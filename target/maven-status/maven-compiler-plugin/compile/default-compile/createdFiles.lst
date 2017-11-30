@@ -1,0 +1,3 @@
+org\kreestster\gui\MvcConfig.class
+org\kreestster\gui\WebSecurityConfig.class
+org\kreestster\gui\Gui.class
